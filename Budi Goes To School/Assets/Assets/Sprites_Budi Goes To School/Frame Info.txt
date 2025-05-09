@@ -1,0 +1,4 @@
+Frame 1 - 3 Stance
+Frame 4 - 6 Air
+Frame 7 - 8 Fall
+Frame 9 - 14 Drop
